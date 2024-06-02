@@ -6,7 +6,7 @@ const moment = require("moment");
 const { REST } = require('@discordjs/rest');
 const { Routes } = require('discord-api-types/v10');
 
-const token = process.env['token']
+const token = process.env['MTE0NTM0ODU5MzYxNjcwMzUwOA.Gf3J2X.IT3OqjdvUDsIJqqWcSxbh82v3RerT2V3npqgos']
 
 client.commands = new Collection()
 client.slashcommands = new Collection()
