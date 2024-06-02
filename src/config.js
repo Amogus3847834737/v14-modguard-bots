@@ -1,7 +1,7 @@
 module.exports = {
   prefix: ".",
-  owner: "1185163404609073173",
-  token: "MTE4MDg3NDUzNzEyNzEyOTEzOQ.GrVbXv.7enzmjZozvuWjwKc_g3eiKOLGHJLNAwdTNx1bI",
+  owner: "957350584246231050",
+  token: "MTE0NTM0ODU5MzYxNjcwMzUwOA.G7520j.1ukk1BxNaKWNlI5IfkKi2d531zN8oh3KajmNSE",
   kufurKelimeleri: ["ananınki","sikiyim","oçç","yarrak","sikerim","amcık","orospu","piç","allahını","oç","sikiyim","sikt","urospu","amına","amını","oros","s1k","y4r","piç","pic","sıkık", "4nan","oruspu","piç","sikim","siki","siktir","yarram",
   "orosbu","sikeyim","sikiyim","anneni","ananı",
   "koduğum","yarak","mcık", "yarrak","anaskm",
